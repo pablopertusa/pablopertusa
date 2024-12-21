@@ -1,6 +1,6 @@
 # Pablo Pertusa Canales 2️⃣7️⃣ 
 
-### 📊 Estudiante de Ciencia de Datos | 🤖 Apasionado por el Aprendizaje Automático | 💻 Explorador del Desarrollo Backend  
+### Estudiante de Ciencia de Datos | Apasionado por el Aprendizaje Automático | Explorador del Desarrollo Backend  
 
 Aquí es donde comparto proyectos relacionados con la ciencia de datos, el aprendizaje automático y el desarrollo backend. Siempre estoy buscando aprender algo nuevo y construir soluciones interesantes.
 
