@@ -17,5 +17,5 @@ Aquí es donde comparto proyectos relacionados con la ciencia de datos, el apren
 - **Lenguajes:** Python, R  
 - **Bibliotecas de Machine Learning:** scikit-learn, TensorFlow, Keras  
 - **Herramientas Backend:** Flask, FastAPI, SQLAlchemy
-- **Bases de Datos:** MySQL, SQLite
+- **Bases de Datos:** SQLite, Oracle DB
 - **Visualización de Datos:** Matplotlib, Plotly
