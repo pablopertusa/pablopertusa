@@ -1,7 +1,5 @@
 # Pablo Pertusa Canales 2️⃣7️⃣ 
 
-### Ciencia de Datos | Aprendizaje Automático | Desarrollo Backend  
-
 Aquí es donde comparto proyectos relacionados con la ciencia de datos, el aprendizaje automático y el desarrollo backend.
 
 ---
